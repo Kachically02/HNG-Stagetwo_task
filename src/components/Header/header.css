@@ -1,0 +1,21 @@
+.header-display {
+  background-image: url("../../images/headerimg.svg");
+  width: 1520px;
+  height: 305px;
+  top: 190px;
+  left: 104px;
+  gap: 0px;
+  border-radius: 12px 0px 0px 0px;
+  opacity: 0px;
+  
+}
+.header-display h2{
+    color: white;
+    margin-top: 6rem;
+    margin-left: 1.5rem;
+}
+.header-display p{
+    color: #E7E7E7;
+    font-size: small;
+    margin-left: 1.5rem;
+}
